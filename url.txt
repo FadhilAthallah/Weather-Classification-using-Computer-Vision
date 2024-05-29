@@ -1,0 +1,2 @@
+Link kaggle : https://www.kaggle.com/datasets/vijaygiitk/multiclass-weather-dataset/data
+Link huggingface : https://huggingface.co/spaces/FadhilAthallah/GC7_Fadhil_Athallah
